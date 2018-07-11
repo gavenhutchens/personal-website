@@ -2,14 +2,12 @@ body {
     overflow-x: hidden; 
 }
 
-
 p {
     padding: 10px;
     font-family: 'Crimson Text', Georgia, Times, serif;
     font-size: 20px;
     line-height: 25px;
 }
-
 
 h2 {
     padding: 10px;
@@ -19,33 +17,22 @@ h2 {
     text-shadow: 1px 1px 1px #ccc;
 }
 
-
-.navbar {
-   
-    
-}
-
-
 .container-fluid{
     padding-top: 70px;
     padding-bottom: 70px;
 }
-
 
 .section1 {
     background-color: #ccffe6;
    
 }
 
-
 .section2{
     background-color: #e6f3ff;
 }
 
-
 .section3{
     background-color: #f2f2f2;
-    
     
 }
 
